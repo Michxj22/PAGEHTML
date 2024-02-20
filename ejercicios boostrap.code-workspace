@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../guia 1 bootstrap/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ejercicios boostrap"
+	}
+}
